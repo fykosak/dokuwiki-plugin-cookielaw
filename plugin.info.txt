@@ -1,0 +1,7 @@
+base   cookielaw
+author Michal Koutny
+email  michal@fykos.cz
+date   2015-08-14
+name   cookielaw plugin
+desc   Inserts banner for user's consent with cookie storing.
+url    https://github.com/fykosak/dokuwiki-plugin-cookielaw

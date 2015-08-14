@@ -19,7 +19,7 @@ class action_plugin_cookielaw extends DokuWiki_Action_Plugin {
      */
     public function register(Doku_Event_Handler $controller) {
 
-       $controller->register_hook('TPL_ACT_RENDER', 'FIXME', $this, 'handle_tpl_act_render');
+       $controller->register_hook('TPL_ACT_RENDER', 'AFTER', $this, 'handle_tpl_act_render');
    
     }
 
@@ -33,6 +33,19 @@ class action_plugin_cookielaw extends DokuWiki_Action_Plugin {
      */
 
     public function handle_tpl_act_render(Doku_Event &$event, $param) {
+        if ($event->data != 'show') {
+            return;
+        }
+
+        if (isset($_COOKIE['cookielaw'])) {
+            return;
+        }
+
+        echo '<div class="cookielaw-banner">';
+        echo hsc($this->getLang('information'));
+        echo '<button>' . hsc($this->getLang('consent')) . '</button>';
+        echo '<a href="' . hsc($this->getLang('details_url')) . '" target="_blank">' . hsc($this->getLang('details')) . '</a>';
+        echo '</div>';
     }
 
 }

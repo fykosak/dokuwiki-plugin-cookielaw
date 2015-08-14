@@ -5,11 +5,12 @@
  * @author Michal Koutny <michal@fykos.cz>
  */
 
-// menu entry for admin plugins
-// $lang['menu'] = 'Your menu entry';
-
 // custom language strings for the plugin
-// $lang['fixme'] = 'FIXME';
+$lang['information'] = 'This website uses cookies for visitor traffic analysis. ' .
+        'By using the website, you agree with storing the cookies on your computer.';
+$lang['consent'] = 'OK';
+$lang['details'] = 'More information';
+$lang['details_url'] = 'https://www.google.de/intl/en/policies/technologies/cookies/';
 
 
 

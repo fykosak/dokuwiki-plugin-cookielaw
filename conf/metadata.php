@@ -6,5 +6,5 @@
  */
 
 
-//$meta['fixme'] = array('string');
+$meta['position'] = array('multichoice', '_choices' => array('top', 'bottom'));
 

@@ -41,7 +41,9 @@ class action_plugin_cookielaw extends DokuWiki_Action_Plugin {
             return;
         }
 
-        echo '<div class="cookielaw-banner">';
+        $position = $this->getConf('position');
+
+        echo '<div class="cookielaw-banner cookielaw-' . $position . '">';
         echo hsc($this->getLang('information'));
         echo '<button>' . hsc($this->getLang('consent')) . '</button>';
         echo '<a href="' . hsc($this->getLang('details_url')) . '" target="_blank">' . hsc($this->getLang('details')) . '</a>';

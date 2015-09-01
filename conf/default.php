@@ -5,4 +5,4 @@
  * @author Michal Koutny <michal@fykos.cz>
  */
 
-//$conf['fixme']    = 'FIXME';
+$conf['position']    = 'bottom';

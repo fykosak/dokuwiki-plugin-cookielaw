@@ -2,7 +2,7 @@
 /**
  * English language file for cookielaw plugin
  *
- * @author Michal Koutny <michal@fykos.cz>
+ * @author Michal Koutny <michal@fykos.cz> / Doc <doc@snowheaven.de>
  */
 
 // custom language strings for the plugin

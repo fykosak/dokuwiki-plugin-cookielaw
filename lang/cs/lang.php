@@ -1,17 +1,11 @@
 <?php
 /**
- * English language file for cookielaw plugin
+ * Czech language file for cookielaw plugin
  *
  * @author Michal Koutny <michal@fykos.cz>
  */
 
-// custom language strings for the plugin
-$lang['information'] = 'Tato stránka využívá cookies pro analýzu provozu. ' .
-        'Používáním stránky souhlasíte s ukládáním těchto cookies na vašem počítači.';
-$lang['consent'] = 'OK';
-$lang['details'] = 'Více informací';
-$lang['details_url'] = 'https://www.google.com/intl/cs/policies/technologies/cookies/';
-
-
-
-//Setup VIM: ex: et ts=4 :
+$lang['information'] = 'Tento web používá cookies. Používáním těchto stránek souhlasíte s ukládáním cookies do vašeho počítače. Také berete na vědomí, že jste si přečetli a porozuměli našim Zásadám ochrany osobních údajů. Pokud nesouhlasíte s odchodem z webu.';
+$lang['consent']     = 'OK';
+$lang['details']     = 'Více informací';
+$lang['details_url'] = 'https://cs.wikipedia.org/wiki/HTTP_cookie';

@@ -2,7 +2,7 @@
 /**
  * Chinese language file for cookielaw plugin
  *
- * @author Michal Koutny <michal@fykos.cz> / Doc <doc@snowheaven.de>
+ * @author Rainbow-Spike <rainbow_spike@derpy.ru>
  */
 
 $lang['information'] = '本网站使用cookies。 使用本网站即表示您同意在您的计算机上存储cookie。 您也承认您已阅读并理解我们的隐私政策。 如果您不同意请离开本网站。';

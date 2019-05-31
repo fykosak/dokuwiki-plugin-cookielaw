@@ -5,4 +5,4 @@
  * @author Rainbow-Spike <rainbow_spike@derpy.ru>
  */
 
-$lang['position']      = 'The location of the information banner about cookies on the page';
+$lang['position']          = 'The location of the information banner about cookies on the page';

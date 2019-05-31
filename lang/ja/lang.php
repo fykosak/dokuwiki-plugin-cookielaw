@@ -2,7 +2,7 @@
 /**
  * Japanese language file for cookielaw plugin
  *
- * @author Michal Koutny <michal@fykos.cz> / Doc <doc@snowheaven.de>
+ * @author Rainbow-Spike <rainbow_spike@derpy.ru>
  */
 
 $lang['information'] = 'このウェブサイトはクッキーを使用しています。 Webサイトを使用することで、あなたはあなたのコンピュータにクッキーを保存することに同意します。 また、あなたはあなたが私たちのプライバシーポリシーを読んで理解したことを認めます。 同意しない場合はウェブサイトを離れてください。';

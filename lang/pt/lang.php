@@ -2,7 +2,7 @@
 /**
  * Portuguese language file for cookielaw plugin
  *
- * @author Michal Koutny <michal@fykos.cz> / Doc <doc@snowheaven.de>
+ * @author Rainbow-Spike <rainbow_spike@derpy.ru>
  */
 
 $lang['information'] = 'Este site usa cookies. Ao usar o site, você concorda em armazenar cookies no seu computador. Você também reconhece que leu e entendeu nossa Política de Privacidade. Se você não concordar, saia do site.';

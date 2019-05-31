@@ -2,7 +2,7 @@
 /**
  * Indonesian language file for cookielaw plugin
  *
- * @author Michal Koutny <michal@fykos.cz> / Doc <doc@snowheaven.de>
+ * @author Rainbow-Spike <rainbow_spike@derpy.ru>
  */
 
 $lang['information'] = 'Situs web ini menggunakan cookie. Dengan menggunakan situs web, Anda setuju dengan menyimpan cookie di komputer Anda. Anda juga mengakui bahwa Anda telah membaca dan memahami Kebijakan Privasi kami. Jika Anda tidak setuju meninggalkan situs web.';

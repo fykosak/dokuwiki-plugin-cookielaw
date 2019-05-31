@@ -2,7 +2,7 @@
 /**
  * Danish language file for cookielaw plugin
  *
- * @author Django <django@nausch.org> / Doc <doc@snowheaven.de>
+ * @author Rainbow-Spike <rainbow_spike@derpy.ru>
  */
 
 $lang['information']  = 'Denne hjemmeside bruger cookies. Ved at bruge hjemmesiden accepterer du at gemme cookies på din computer. Du anerkender også, at du har læst og forstået vores privatlivspolitik. Hvis du ikke er enig, forlad hjemmesiden.';

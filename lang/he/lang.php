@@ -2,7 +2,7 @@
 /**
  * Hebrew language file for cookielaw plugin
  *
- * @author Michal Koutny <michal@fykos.cz> / Doc <doc@snowheaven.de>
+ * @author Rainbow-Spike <rainbow_spike@derpy.ru>
  */
 
 $lang['information'] = 'אתר זה משתמש בקובצי cookie. באמצעות האתר, אתה מסכים עם אחסון קבצי Cookie במחשב שלך. כמו כן, אתה מאשר שקראת והבנת את מדיניות הפרטיות שלנו. אם אתה לא מסכים לעזוב את האתר.';

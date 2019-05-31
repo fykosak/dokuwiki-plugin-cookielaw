@@ -2,7 +2,7 @@
 /**
  * Hindi language file for cookielaw plugin
  *
- * @author Michal Koutny <michal@fykos.cz> / Doc <doc@snowheaven.de>
+ * @author Rainbow-Spike <rainbow_spike@derpy.ru>
  */
 
 $lang['information'] = 'यह वेबसाइट कुकीज़ का उपयोग करती है। वेबसाइट का उपयोग करके, आप अपने कंप्यूटर पर कुकीज़ रखने से सहमत हैं। साथ ही आप स्वीकार करते हैं कि आपने हमारी गोपनीयता नीति को पढ़ा और समझा है। यदि आप सहमत नहीं हैं तो वेबसाइट को छोड़ दें।';

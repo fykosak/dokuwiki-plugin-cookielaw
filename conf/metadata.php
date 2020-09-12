@@ -4,7 +4,4 @@
  *
  * @author Michal Koutny <michal@fykos.cz>
  */
-
-
-$meta['position'] = array('multichoice', '_choices' => array('top', 'bottom'));
-
+$meta['position'] = ['multichoice', '_choices' => ['top', 'bottom']];

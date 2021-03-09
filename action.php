@@ -10,7 +10,7 @@ if (!defined('DOKU_INC')) die();
  * DokuWiki Plugin cookielaw (Action Component)
  *
  * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
- * @author  Michal Koutny <michal@fykos.cz>
+ * @author  Michal Koutny <michal@fykos.cz> / Doc <doc@snowheaven.de>
  */
 class action_plugin_cookielaw extends ActionPlugin {
 
@@ -44,7 +44,8 @@ class action_plugin_cookielaw extends ActionPlugin {
         echo '<div class="cookielaw-banner cookielaw-' . $position . '">';
         echo hsc($this->getLang('information'));
         echo '<button>' . hsc($this->getLang('consent')) . '</button>';
-        echo '<a href="' . hsc($this->getLang('details_url')) . '" target="_blank">' . hsc($this->getLang('details')) . '</a>';
+        echo '<a href="' . hsc($this->getLang('details_url')) . '" target="_blank">' . hsc($this->getLang('details')) . '</a> ';
+        echo '<a href="' . hsc($this->getLang('details_url2')) . '" target="_blank">' . hsc($this->getLang('details2')) . '</a></br>';
         echo '</div>';
     }
 }
